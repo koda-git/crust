@@ -1,0 +1,12 @@
+[package]
+name = "fluxc"
+version = "0.1.0"
+authors = ["SkyezerFox <actuallyori@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+clap = { version = "3", features = ["derive"] }
+env_logger = "0.9"
+log = "0.4"
+
+fluxc_main = { path =  "../fluxc_main" }

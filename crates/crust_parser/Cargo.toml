@@ -1,0 +1,12 @@
+[package]
+name = "fluxc_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chumsky = "0.8"
+tracing = "0.1"
+
+fluxc_ast = { path = "../fluxc_ast" }
+fluxc_lexer = { path =  "../fluxc_lexer" }
+fluxc_span = { path =  "../fluxc_span" }
