@@ -12,3 +12,8 @@ Errors -> Handle errors, define them, and diag\
 Main -> Interface / Entrypoint (CLI)\
 
 Writing tests...
+
+
+--- 
+
+Reverse engineering and learning previously abandoned compiler project from @kaylendog
