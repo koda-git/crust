@@ -16,4 +16,4 @@ Writing tests...
 
 --- 
 
-Reverse engineering and learning previously abandoned compiler project from @kaylendog
+Reverse engineering and learning previously abandoned compiler project from [kaylendog](https://github.com/kaylendog)
